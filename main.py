@@ -1,3 +1,1 @@
-import webbrowser
-
-webbrowser.open('Blog.html')
+open('Blog.html')
